@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle Project", "Puzzle Project.csproj", "{7D05B42F-F220-B8E3-C1DC-CF7CE09FCB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle Project.Editor", "Puzzle Project.Editor.csproj", "{FED3861C-E1FB-EEF4-A04C-68427CB9E3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D05B42F-F220-B8E3-C1DC-CF7CE09FCB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D05B42F-F220-B8E3-C1DC-CF7CE09FCB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D05B42F-F220-B8E3-C1DC-CF7CE09FCB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D05B42F-F220-B8E3-C1DC-CF7CE09FCB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED3861C-E1FB-EEF4-A04C-68427CB9E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED3861C-E1FB-EEF4-A04C-68427CB9E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED3861C-E1FB-EEF4-A04C-68427CB9E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED3861C-E1FB-EEF4-A04C-68427CB9E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
